@@ -15,3 +15,6 @@ root:$y$j9T$8yCyNLTeGfC2FDUDFE6sM1$e65o4d6wvakq5n8g3gyx.0R2UL1mAkx47MbbSvBE9a5:1
 
 ### Encoding
 root:$y$j9T$YrcgmNEZARoBVHavwBOPQ/$wIZaX9iidgZlQcbd8FsfhAK4e9f6CCS0R8zTG7iGZWC:19307:0:99999:7::: 
+
+### Forgot
+root:$6$KPqhZTXCQFI1KCL7$IK7wbX2aLhUUXi4HFfJLUNhXaGRjkvDVE0Pjv0bazG/KwmHjoyrDtO3ZEPReTQ.VvCRrq.71XKuOLCHsrGebL.:19189:0:99999:7:::
