@@ -25,13 +25,13 @@ Administrator:500:aad3b435b51404eeaad3b435b51404ee:468c7497513f8243b59980f2240a1
 ### Ambassador
 root:$6$AY/Hqk/PJgettbhs$mgg2hluJ8.leTpnrlEkh4RF7qE6Ns9j/TtV3Sx5OIsZ2YEA0OjGsJpmQlX2CFMmbwNjmvCZy9/Rcea4nF799V0:19065:0:99999:7:::
 
-
 ### Flight
 Administrator:500:aad3b435b51404eeaad3b435b51404ee:43bbfc530bab76141b12c8446e30c17c::: 
-
 ### Shoppy
 root:$y$j9T$0gd6YLeK1QF8eXOhAGmb2.$rvSHnH5qysjj79l0OiXizdnFwT1vsQzz5U4p/vrHQMB:19195:0:99999:7:::
 
 ### Awkward 
 root:$y$j9T$ZIlTVYLPszqZujGML5./W.$HD3g2FwVlePYbdiEVZ7YyKXtIl3IoenZkQLVx5VhH92:19250:0:99999:7:::
 
+### Rainyday
+root:$y$j9T$TVZw7KAQcpnLIJ09cpnHF/$tuhzSX1/YWOU3ZeBlQwynMvSLEyn/.ax0eo6kbhFvy7:19284:0:99999:7:::
