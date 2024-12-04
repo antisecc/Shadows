@@ -18,3 +18,6 @@ root:$y$j9T$YrcgmNEZARoBVHavwBOPQ/$wIZaX9iidgZlQcbd8FsfhAK4e9f6CCS0R8zTG7iGZWC:1
 
 ### Forgot
 root:$6$KPqhZTXCQFI1KCL7$IK7wbX2aLhUUXi4HFfJLUNhXaGRjkvDVE0Pjv0bazG/KwmHjoyrDtO3ZEPReTQ.VvCRrq.71XKuOLCHsrGebL.:19189:0:99999:7:::
+
+### Vintage
+Administrator:500:aad3b435b51404eeaad3b435b51404ee:468c7497513f8243b59980f2240a10de:::
