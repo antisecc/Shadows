@@ -35,3 +35,7 @@ root:$y$j9T$ZIlTVYLPszqZujGML5./W.$HD3g2FwVlePYbdiEVZ7YyKXtIl3IoenZkQLVx5VhH92:1
 
 ### Rainyday
 root:$y$j9T$TVZw7KAQcpnLIJ09cpnHF/$tuhzSX1/YWOU3ZeBlQwynMvSLEyn/.ax0eo6kbhFvy7:19284:0:99999:7:::
+
+### Photobomb
+root:$6$7MU2U.CeiY0WX91P$TUNn8zNu/XUPSgURRJbzYvnnawpZdGhsWiLSpVrm1cIx9Rev7V/yQ5x58gTy98zcXrv6RqlWRtXcbhEhTl3240:19251:0:99999:7:::
+
