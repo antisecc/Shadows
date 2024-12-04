@@ -21,3 +21,5 @@ root:$6$KPqhZTXCQFI1KCL7$IK7wbX2aLhUUXi4HFfJLUNhXaGRjkvDVE0Pjv0bazG/KwmHjoyrDtO3
 
 ### Vintage
 Administrator:500:aad3b435b51404eeaad3b435b51404ee:468c7497513f8243b59980f2240a10de:::
+
+root:$6$AY/Hqk/PJgettbhs$mgg2hluJ8.leTpnrlEkh4RF7qE6Ns9j/TtV3Sx5OIsZ2YEA0OjGsJpmQlX2CFMmbwNjmvCZy9/Rcea4nF799V0:19065:0:99999:7:::
