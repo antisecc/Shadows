@@ -28,3 +28,7 @@ root:$6$AY/Hqk/PJgettbhs$mgg2hluJ8.leTpnrlEkh4RF7qE6Ns9j/TtV3Sx5OIsZ2YEA0OjGsJpm
 
 ### Flight
 Administrator:500:aad3b435b51404eeaad3b435b51404ee:43bbfc530bab76141b12c8446e30c17c::: 
+
+### Shoppy
+root:$y$j9T$0gd6YLeK1QF8eXOhAGmb2.$rvSHnH5qysjj79l0OiXizdnFwT1vsQzz5U4p/vrHQMB:19195:0:99999:7:::
+
