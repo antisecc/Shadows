@@ -32,3 +32,6 @@ Administrator:500:aad3b435b51404eeaad3b435b51404ee:43bbfc530bab76141b12c8446e30c
 ### Shoppy
 root:$y$j9T$0gd6YLeK1QF8eXOhAGmb2.$rvSHnH5qysjj79l0OiXizdnFwT1vsQzz5U4p/vrHQMB:19195:0:99999:7:::
 
+### Awkward 
+root:$y$j9T$ZIlTVYLPszqZujGML5./W.$HD3g2FwVlePYbdiEVZ7YyKXtIl3IoenZkQLVx5VhH92:19250:0:99999:7:::
+
