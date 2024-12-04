@@ -40,6 +40,10 @@ root:$y$j9T$TVZw7KAQcpnLIJ09cpnHF/$tuhzSX1/YWOU3ZeBlQwynMvSLEyn/.ax0eo6kbhFvy7:1
 ### Photobomb.htb
 root:$6$7MU2U.CeiY0WX91P$TUNn8zNu/XUPSgURRJbzYvnnawpZdGhsWiLSpVrm1cIx9Rev7V/yQ5x58gTy98zcXrv6RqlWRtXcbhEhTl3240:19251:0:99999:7:::
 
+### Health.htb
+root:$6$CGK4O3ut$hQTwfTrsIVAL2.wTf.mNzkpipITwSLVjqTw5bN2bnXXQi8QU4lnrlnrBMZ87bzMMQEyuxnlLJIMGhKIFjZBFn/:19130:0:99999:7:::
+
+
 ### UpDown.htb
 root:$6$35UwqDmGM31K3z1O$EV0yHaLbvEqQ1YfxHOl4fMFHnR0O0Lo7RSnFGpYdfUwBmec0/5JWenL6GLivYgeka8Z4XyYW2UhWOV5UOdK0w.:19165:0:99999:7::: 
 
