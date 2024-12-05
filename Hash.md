@@ -59,3 +59,4 @@ Administrator:500:aad3b435b51404eeaad3b435b51404ee:bb06cbc02b39abeddd1335bc30b19
 root:$y$j9T$q/qYCzzDEBdZXpRxCa6gL/$XhNZBD56JUTsCniDDjj6UmwRnBc3A40AcbtqNzVEpJ4:19186:0:99999:7:::
 
 ### Redpanda.htb
+root:$6$HYdGmG45Ye119KMJ$XKsSsbWxGmfYk38VaKlJkaLomoPUzkL/l4XNJN3PuXYAYebnSz628ii4VLWfEuPShcAEpQRjhl.vi0MrJAC8x0:19157:0:99999:7::: 
