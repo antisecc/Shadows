@@ -54,3 +54,6 @@ Administrator:500:aad3b435b51404eeaad3b435b51404ee:716f1ce2e2cf38ee1210cce35eb78
 
 ### Support.htb
 Administrator:500:aad3b435b51404eeaad3b435b51404ee:bb06cbc02b39abeddd1335bc30b19e26::: 
+
+### Shared.htb
+root:$y$j9T$q/qYCzzDEBdZXpRxCa6gL/$XhNZBD56JUTsCniDDjj6UmwRnBc3A40AcbtqNzVEpJ4:19186:0:99999:7:::
