@@ -60,3 +60,6 @@ root:$y$j9T$q/qYCzzDEBdZXpRxCa6gL/$XhNZBD56JUTsCniDDjj6UmwRnBc3A40AcbtqNzVEpJ4:1
 
 ### Redpanda.htb
 root:$6$HYdGmG45Ye119KMJ$XKsSsbWxGmfYk38VaKlJkaLomoPUzkL/l4XNJN3PuXYAYebnSz628ii4VLWfEuPShcAEpQRjhl.vi0MrJAC8x0:19157:0:99999:7::: 
+
+### Faculty.htb
+root:$6$CiEa.wxtUKxG5q21$ED3MTE6ehz0j0q4kRQfK4bnLQFLZDrG9skIPsc0p2/X3JSBHFWjRWAZwEdUpqON6UqZOXvme7.1wHzNCVHqk9/:18559:0:99999:7:::
