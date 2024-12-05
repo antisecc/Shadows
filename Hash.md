@@ -51,3 +51,6 @@ root:$6$9AU197eAAajcv6DO$YOGX5f111bLxtIqVgPKGg3QmWiWIRVmYk3Gkj0BwFVb9K0BkAnJEHaR
 
 ### Outdated.htb
 Administrator:500:aad3b435b51404eeaad3b435b51404ee:716f1ce2e2cf38ee1210cce35eb78cb6::: 
+
+### Support.htb
+Administrator:500:aad3b435b51404eeaad3b435b51404ee:bb06cbc02b39abeddd1335bc30b19e26::: 
