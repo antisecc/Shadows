@@ -66,3 +66,7 @@ root:$6$CiEa.wxtUKxG5q21$ED3MTE6ehz0j0q4kRQfK4bnLQFLZDrG9skIPsc0p2/X3JSBHFWjRWAZ
 
 ### Trick.htb
 root:$6$lbBzS2rUUVRa6Erd$u2u317eVZBZgdCrT2HViYv.69vxazyKjAuVETHTpTpD42H0RDPQIbsCHwPdKqBQphI/FOmpEt3lgD9QBsu6nU1:19104:0:99999:7:::
+
+### Streamio.htb
+Administrator:500:aad3b435b51404eeaad3b435b51404ee:45be1d36942e3eb589e8b0d372198f3d::: 
+
