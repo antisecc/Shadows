@@ -70,3 +70,5 @@ root:$6$lbBzS2rUUVRa6Erd$u2u317eVZBZgdCrT2HViYv.69vxazyKjAuVETHTpTpD42H0RDPQIbsC
 ### Streamio.htb
 Administrator:500:aad3b435b51404eeaad3b435b51404ee:45be1d36942e3eb589e8b0d372198f3d::: 
 
+### Opensource.htb
+root:$6$5sA85UVX$HupltM.bMqXkLc269pHDk1lryc4y5LV0FPMtT3x.yUdbe3mGziC8aUXWRQ2K3jX8mq5zItFAkAfDgPzH8EQ1C/:19072:0:99999:7:::
