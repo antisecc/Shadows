@@ -82,3 +82,5 @@ root:$6$HJWtdM63SqnL6alL$h/FUZ0TNaCCrCgEzeuT9ityQcDmYcMCA0fErrvkZVBmf0TQJntGSRMD
 ### Goodgames.htb
 root:$6$GmMEmssPGCPr41ZY$KMvbWANO2ezXDg/9Zwlx2nE0X0o8w2NEzIpIZDmZClIZRBq/zEoRCsx07UdBGb.U6jKsyPmJEIcOVa3XTT0a//:18936:0:99999:7:::
 
+### Routerspace.htb
+root:$6$..ySg0ifqSXbNGLR$CWbLWlNJ5x/EjbFLJ9ToQN2yu8ZVow38cppsYsa/NkqF9PvMpHYpv2aoFzLdE5RdYyCrWFKqwpsdxmrvmidZq.:18961:0:99999:7:::
