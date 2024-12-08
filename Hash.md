@@ -88,3 +88,5 @@ root:$6$..ySg0ifqSXbNGLR$CWbLWlNJ5x/EjbFLJ9ToQN2yu8ZVow38cppsYsa/NkqF9PvMpHYpv2a
 ### Paper.htb
 root:$6$rfCS6Tb3sgIjkTux$UhBHq5wWPncgtVnltzm3Squ9KBcX3/9k0y6o8AG6lNSKOobHatUWFzPS1J8uuh/QML6kyhZ10ngXa5nCBLDkL.:18811:0:99999:7:::
 
+### Meta.htb
+root:$6$C2RdQ0RpQ545cx/2$TMbXaoMwVs7XQVOwEwAnzcUVrIR5CdpVaM3Aoml8p9PWQWvxbrGrh/Y6d2.OuKlSHVsNVS0mJwSoGl.q8Pbug0:18996:0:99999:7:::
