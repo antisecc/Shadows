@@ -76,3 +76,7 @@ root:$6$5sA85UVX$HupltM.bMqXkLc269pHDk1lryc4y5LV0FPMtT3x.yUdbe3mGziC8aUXWRQ2K3jX
 ### Linkvortex.htb
 root:$y$j9T$C3zg87gHwrCXO0vl4igIh/$iisf9sVwilKAi7mI5p1FqQslJWM9t2.YUWznIPC/XIA:19814:0:99999:7:::
 
+### Catch.htb
+root:$6$HJWtdM63SqnL6alL$h/FUZ0TNaCCrCgEzeuT9ityQcDmYcMCA0fErrvkZVBmf0TQJntGSRMDo.AXZA9V00.qAsZ04554.dUJcFszUM1:18976:0:99999:7:::
+
+
