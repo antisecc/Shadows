@@ -72,3 +72,7 @@ Administrator:500:aad3b435b51404eeaad3b435b51404ee:45be1d36942e3eb589e8b0d372198
 
 ### Opensource.htb
 root:$6$5sA85UVX$HupltM.bMqXkLc269pHDk1lryc4y5LV0FPMtT3x.yUdbe3mGziC8aUXWRQ2K3jX8mq5zItFAkAfDgPzH8EQ1C/:19072:0:99999:7:::
+
+### Linkvortex.htb
+root:$y$j9T$C3zg87gHwrCXO0vl4igIh/$iisf9sVwilKAi7mI5p1FqQslJWM9t2.YUWznIPC/XIA:19814:0:99999:7:::
+
