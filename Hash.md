@@ -79,4 +79,6 @@ root:$y$j9T$C3zg87gHwrCXO0vl4igIh/$iisf9sVwilKAi7mI5p1FqQslJWM9t2.YUWznIPC/XIA:1
 ### Catch.htb
 root:$6$HJWtdM63SqnL6alL$h/FUZ0TNaCCrCgEzeuT9ityQcDmYcMCA0fErrvkZVBmf0TQJntGSRMDo.AXZA9V00.qAsZ04554.dUJcFszUM1:18976:0:99999:7:::
 
+### Goodgames.htb
+root:$6$GmMEmssPGCPr41ZY$KMvbWANO2ezXDg/9Zwlx2nE0X0o8w2NEzIpIZDmZClIZRBq/zEoRCsx07UdBGb.U6jKsyPmJEIcOVa3XTT0a//:18936:0:99999:7:::
 
