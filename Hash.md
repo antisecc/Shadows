@@ -1,6 +1,9 @@
 ### Alert.htb
 root:$6$gSjyQo8nJFMsegNG$jRRGms4KAq1FGTXwBJl236Ui5OKRtmaM3k8nkXuvduPXnhhaT/ZCYHHYO3GxhUAik1NaFYlBGaQZBrzQHgOhc/:19791:0:99999:7:::
 
+### Passage.htb
+root:$6$mjc8Tvgr$L56bn5KQDtOyKRdXBTL4xcmT7FVWJbds.Fo0FVc11PWliaNu5ASAxKzaEddyaYGMxGQPUNo5UpxT/nawzS8TW0:18464:0:99999:7:::
+
 ### Armageddon.htb
 root:$6$OhKUwkvR$.uL.mlYJOz.ubK/FmXouGbU7vCVCG9s00K7R.ny9ryM.vXNdwZhOGCcq7e3XcbA5UpqUp.9eKY4hfLy9m5aU7/:18610:0:99999:7:::
 
