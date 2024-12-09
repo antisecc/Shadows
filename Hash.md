@@ -7,6 +7,8 @@ root:$6$OhKUwkvR$.uL.mlYJOz.ubK/FmXouGbU7vCVCG9s00K7R.ny9ryM.vXNdwZhOGCcq7e3XcbA
 ### Delivery.htb
 root:$6$Zgefgue1ExBT80dl$uTb2.giC3XGWRl55oIq94jD50ylT5ZfE9eghl.YP92co.M.gJB5jPGNlbgGQSczIibtyn.jZtOyIseVvXrM2V0:18624:0:99999:7:::
 
+### Academy.htb
+root:$6$Haots4JVo2R7o2wP$XxlDAw9FgIGHZapROvxiKByJrGiZT0KHkoB9mLC4npT9wDOFsO3p9ad0ScF3tCKT.hk7uweN7KDK4EcmBEKv./:18481:0:99999:7:::
 
 ### Ophiuchi.htb
 root:$6$oPgtRE0IgWrXKitG$Z5FyXxEXm5l.skZbIBKm0poPFPUxgZVY5DPii0DFsQgSBiL98ioRBuHDVzOHaZCgH.xyLnpGIksHlfBXC4LQo/:18554:0:99999:7:::
