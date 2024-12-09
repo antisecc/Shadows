@@ -4,6 +4,9 @@ root:$6$gSjyQo8nJFMsegNG$jRRGms4KAq1FGTXwBJl236Ui5OKRtmaM3k8nkXuvduPXnhhaT/ZCYHH
 ### Armageddon.htb
 root:$6$OhKUwkvR$.uL.mlYJOz.ubK/FmXouGbU7vCVCG9s00K7R.ny9ryM.vXNdwZhOGCcq7e3XcbA5UpqUp.9eKY4hfLy9m5aU7/:18610:0:99999:7:::
 
+### Jewel.htb
+root:$6$YwD1cSpUyJrGkFRp$.IYGkOtaiuUWp4rqZc04oC2/GxrwiVxelP2qLSpL8POlusU/5PTjZ4SIJMTqdsOJCbz7ubQAVk3QUiJuHJlj30:18502:0:99999:7:::
+
 ### Delivery.htb
 root:$6$Zgefgue1ExBT80dl$uTb2.giC3XGWRl55oIq94jD50ylT5ZfE9eghl.YP92co.M.gJB5jPGNlbgGQSczIibtyn.jZtOyIseVvXrM2V0:18624:0:99999:7:::
 
