@@ -127,3 +127,6 @@ Administrator:500:aad3b435b51404eeaad3b435b51404ee:525a8625a410e103120a55684d31c
 
 ### Previse.htb
 root:$6$QJgW9tG2$yIhp0MQm9b4ok8j9su9H0hJ.GuwI5AHusMrZBQv2oLfvotY5YR0MJ82zJ4xi5WCKQSWn/a3HO/M/TjS/YC0Mk1:18824:0:99999:7:::
+
+### Writer.htb
+root:$6$gev1Op0YfgboE7iR$iMNbP.8qic/SzTr4atxwLbkI7nScyZWJPbTgoXAlEz5Hcw3Ntget9j3p.iccPcw5Jl4dj4bHWZ5LvoLLNC8iB.:18816:0:99999:7:::
