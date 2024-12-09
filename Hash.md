@@ -133,3 +133,5 @@ root:$6$gev1Op0YfgboE7iR$iMNbP.8qic/SzTr4atxwLbkI7nScyZWJPbTgoXAlEz5Hcw3Ntget9j3
 
 ### Bountyhunter.htb
 root:$6$S6D08T6aUYoEjKkH$aL7HVCr1HUlObuXmxFaXrmYgO3Bn0DwYnefBPI/ATF/At/0eplm9xBfsRoFo8NnlWFeIBzmBivxSfFtAUyfp9.:18793:0:99999:7:::
+
+### Seal.htb
