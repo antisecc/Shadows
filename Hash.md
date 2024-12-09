@@ -116,4 +116,5 @@ root:$y$j9T$65xGqPkGORT/KDerDeKCf/$9MQ0Fh3Dg0taQRojV0Fs4/XQ5KUKXfbyBNhvFIdUca2:1
 ### Forge.htb
 root:$6$Msvc2unlR99fWBAX$boGTeFujypU5XzdRYTBwRdGEUanryagtjUScvHxCfJ.Jt44iwzJhad4rWhXMahebHXA6CSH3Nlr64tpusii6O/:18780:0:99999:7:::
 
-
+### Earlyaccess.htb
+root:$6$2QbMgoSoxCmfitM7$fivhckW6N0Qk8Y3.RDUy8iFKm/BcwEUkUDwKZa5s3LC6bhJuBwPxaqUpUJ76oOiI10i7CfcpPj1CcwVWsRLoz/:18871:0:99999:7:::
