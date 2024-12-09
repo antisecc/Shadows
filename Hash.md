@@ -121,3 +121,7 @@ root:$6$2QbMgoSoxCmfitM7$fivhckW6N0Qk8Y3.RDUy8iFKm/BcwEUkUDwKZa5s3LC6bhJuBwPxaqU
 
 ### Horizontall.htb
 root:$6$rGxQBZV9$SbzCXDzp1MEx7xxXYuV5voXCy4k9OdyCDbyJcWuETBujfMrpfVtTXjbx82bTNlPK6Ayg8SqKMYgVlYukVOKJz1:18836:0:99999:7:::
+
+
+### Anubis.htb
+Administrator:500:aad3b435b51404eeaad3b435b51404ee:525a8625a410e103120a55684d31ca1f:::
