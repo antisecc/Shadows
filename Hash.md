@@ -7,6 +7,8 @@ root:$6$OhKUwkvR$.uL.mlYJOz.ubK/FmXouGbU7vCVCG9s00K7R.ny9ryM.vXNdwZhOGCcq7e3XcbA
 ### Ophiuchi.htb
 root:$6$oPgtRE0IgWrXKitG$Z5FyXxEXm5l.skZbIBKm0poPFPUxgZVY5DPii0DFsQgSBiL98ioRBuHDVzOHaZCgH.xyLnpGIksHlfBXC4LQo/:18554:0:99999:7:::
 
+root:$6$hfxS53gy$YDGYBt.0P7G3TpKB0qo.gkUNClP2CRMHyCNU/2aVjQSPN3mxpL4hs7XYX1XNM5mSEGiASvizwxTV0DToS/wDV.:18606:0:99999:7:::
+
 
 ### Office.htb
 Administrator:500:aad3b435b51404eeaad3b435b51404ee:f5b4f1e96c7ffca801ed5832e5e9105d:::
