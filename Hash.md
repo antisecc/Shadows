@@ -118,3 +118,6 @@ root:$6$Msvc2unlR99fWBAX$boGTeFujypU5XzdRYTBwRdGEUanryagtjUScvHxCfJ.Jt44iwzJhad4
 
 ### Earlyaccess.htb
 root:$6$2QbMgoSoxCmfitM7$fivhckW6N0Qk8Y3.RDUy8iFKm/BcwEUkUDwKZa5s3LC6bhJuBwPxaqUpUJ76oOiI10i7CfcpPj1CcwVWsRLoz/:18871:0:99999:7:::
+
+### Horizontall.htb
+root:$6$rGxQBZV9$SbzCXDzp1MEx7xxXYuV5voXCy4k9OdyCDbyJcWuETBujfMrpfVtTXjbx82bTNlPK6Ayg8SqKMYgVlYukVOKJz1:18836:0:99999:7:::
