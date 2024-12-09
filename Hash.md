@@ -110,3 +110,7 @@ Administrator:500:aad3b435b51404eeaad3b435b51404ee:5e3c0abbe0b4163c5612afe25c69c
 ### Bolt.htb
 root:$6$gID7DRyUwzMW69Ul$209oMxMiaHmg1iiIbvO0z7Z7Twe./PKnGZKede1XYfsqynZ/xLN5jAmtwMLFWpFLeV6vf8YSVsj87Q5zkbudX.:18879:0:99999:7:::
 
+### Validation.htb
+root:$y$j9T$65xGqPkGORT/KDerDeKCf/$9MQ0Fh3Dg0taQRojV0Fs4/XQ5KUKXfbyBNhvFIdUca2:18886:0:99999:7:::
+
+
