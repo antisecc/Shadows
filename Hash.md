@@ -113,4 +113,7 @@ root:$6$gID7DRyUwzMW69Ul$209oMxMiaHmg1iiIbvO0z7Z7Twe./PKnGZKede1XYfsqynZ/xLN5jAm
 ### Validation.htb
 root:$y$j9T$65xGqPkGORT/KDerDeKCf/$9MQ0Fh3Dg0taQRojV0Fs4/XQ5KUKXfbyBNhvFIdUca2:18886:0:99999:7:::
 
+### Forge.htb
+root:$6$Msvc2unlR99fWBAX$boGTeFujypU5XzdRYTBwRdGEUanryagtjUScvHxCfJ.Jt44iwzJhad4rWhXMahebHXA6CSH3Nlr64tpusii6O/:18780:0:99999:7:::
+
 
