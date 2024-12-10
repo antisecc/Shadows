@@ -1,6 +1,9 @@
 ### Alert.htb
 root:$6$gSjyQo8nJFMsegNG$jRRGms4KAq1FGTXwBJl236Ui5OKRtmaM3k8nkXuvduPXnhhaT/ZCYHHYO3GxhUAik1NaFYlBGaQZBrzQHgOhc/:19791:0:99999:7:::
 
+### Obscure.htb
+root:$6$riekpK4m$uBdaAyK0j9WfMzvcSKYVfyEHGtBfnfpiVbYbzbVmfbneEbo0wSijW1GQussvJSk8X1M56kzgGj8f7DFN1h4dy1:18226:0:99999:7:::
+
 ### Sauna.htb
 Administrator:500:aad3b435b51404eeaad3b435b51404ee:823452073d75b9d1cf70ebdf86c7f98e:::
 
