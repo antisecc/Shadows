@@ -4,6 +4,9 @@ root:$6$gSjyQo8nJFMsegNG$jRRGms4KAq1FGTXwBJl236Ui5OKRtmaM3k8nkXuvduPXnhhaT/ZCYHH
 ### Quick.htb
 root:$6$CpZXZOUa$Dvu2T.O21TKyHjCSdliRgGlJjB3hXi7uPjon.OIIj136XVDnQ3nM1r423ya.M3jGh97wM6OFsQHZykDXqHkaA/:18341:0:99999:7:::
 
+### Forwardslash.htb
+root:$6$daB3I84E$NnzV4cHTAgWsPGWoBKLO2W6NotitrAk6udeTh0cxvXWHIkDXZQtss13QP2gTgFOMdIYdQ8CtvSxzznHI.nVmW.:18326:0:99999:7:::
+
 ### Admirer.htb
 root:$6$M5g.E5/j$AO7lZNZXLFABZld5uGh/YB3J1Va4AG9Tmw1icvm2MsDOj6B1RFloUmnA9jcj4DIsILOedBvVQg66CVjGrd.fl0:18374:0:99999:7:::
 
