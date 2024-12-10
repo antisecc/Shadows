@@ -1,6 +1,9 @@
 ### Alert.htb
 root:$6$gSjyQo8nJFMsegNG$jRRGms4KAq1FGTXwBJl236Ui5OKRtmaM3k8nkXuvduPXnhhaT/ZCYHHYO3GxhUAik1NaFYlBGaQZBrzQHgOhc/:19791:0:99999:7:::
 
+### Sauna.htb
+Administrator:500:aad3b435b51404eeaad3b435b51404ee:823452073d75b9d1cf70ebdf86c7f98e:::
+
 ### Quick.htb
 root:$6$CpZXZOUa$Dvu2T.O21TKyHjCSdliRgGlJjB3hXi7uPjon.OIIj136XVDnQ3nM1r423ya.M3jGh97wM6OFsQHZykDXqHkaA/:18341:0:99999:7:::
 
