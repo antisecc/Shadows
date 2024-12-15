@@ -1,6 +1,9 @@
 ### Alert.htb
 root:$6$gSjyQo8nJFMsegNG$jRRGms4KAq1FGTXwBJl236Ui5OKRtmaM3k8nkXuvduPXnhhaT/ZCYHHYO3GxhUAik1NaFYlBGaQZBrzQHgOhc/:19791:0:99999:7:::
 
+### Heal.htb
+root:$y$j9T$PXt5gUmlNdTkrYBWtWJ.g0$KMKlRSr0.BNG0zhjcDIKvNsPkce/xbEtF22T1w/xKR8:19993:0:99999:7:::
+
 ### Obscure.htb
 root:$6$riekpK4m$uBdaAyK0j9WfMzvcSKYVfyEHGtBfnfpiVbYbzbVmfbneEbo0wSijW1GQussvJSk8X1M56kzgGj8f7DFN1h4dy1:18226:0:99999:7:::
 
