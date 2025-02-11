@@ -180,6 +180,10 @@ root:$6$S6D08T6aUYoEjKkH$aL7HVCr1HUlObuXmxFaXrmYgO3Bn0DwYnefBPI/ATF/At/0eplm9xBf
 ### Seal.htb
 root:$6$D8b4qJlaLsRsvwuy$qvUFLUdvoH0EsvrLSJCpejOmV7bZoCO2ZGH2ueU77uAHpxepSfK.ts4LkkfwzuJ.IJ87EeK9RrNKHEorKQp3r.:18752:0:99999:7:::
 
+### BigBang.htb
+root:$y$j9T$vdc1uZNWf6RnjK02atUqF.$0R57rghgtK8gjvwhY9F.6d4HQV34vtwyJTA/ZxDC8mA:19879:0:99999:7:::
+
+
 ### Spider.htb
 root:$6$hfxS53gy$YDGYBt.0P7G3TpKB0qo.gkUNClP2CRMHyCNU/2aVjQSPN3mxpL4hs7XYX1XNM5mSEGiASvizwxTV0DToS/wDV.:18606:0:99999:7:::
 
